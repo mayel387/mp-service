@@ -262,7 +262,7 @@
       </div>
       <div class="reveal reveal-delay-2 relative">
        <div class="hero-image-wrap flex items-center justify-center bg-transparent">
-        <img class="relative z-10 h-full w-full object-cover" loading="lazy" src="./design sans titre.jpg" alt="MP Électricité Général - Accueil">
+        <img class="relative z-10 h-full w-full object-cover" loading="lazy" src="./Design sans titre.jpg" alt="MP Électricité Général - Accueil">
        </div>
       </div>
      </div>
@@ -310,7 +310,7 @@
     <section class="overflow-hidden" style="background: rgb(24, 26, 30);">
      <div class="mx-auto grid w-full max-w-7xl lg:grid-cols-[.82fr_1.18fr]">
       <div class="relative min-h-[360px]">
-       <img class="absolute inset-0 h-full w-full object-cover" loading="lazy" src="./PHOTO-2026-06-30-11-27-40.jpg" alt="Pourquoi choisir MP Électricité">
+       <img class="absolute inset-0 h-full w-full object-cover" loading="lazy" src="./electricite.jpeg" alt="Pourquoi choisir MP Électricité">
        <div class="absolute inset-0 bg-black/35"></div>
       </div>
       <div class="px-5 py-16 lg:px-16 lg:py-20 text-white">
